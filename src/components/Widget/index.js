@@ -10,6 +10,6 @@ export const Widget = () => (
       width='100%'
       height='350px'
       frameBorder='0'/>
-    <script type='text/javascript' src='https://changenow.io/embeds/exchange-widget/v2/stepper-connector.js'/>
+    <script type='text/javascript' async src='https://changenow.io/embeds/exchange-widget/v2/stepper-connector.js'/>
   </div>
 );
