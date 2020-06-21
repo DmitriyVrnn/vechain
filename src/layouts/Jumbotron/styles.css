@@ -25,7 +25,7 @@
 }
 
 @media (max-width: 993px) {
-    .jumbo__widget {
+    .jumbo__widget, .jumbo__main {
         width: 100%;
     }
 
