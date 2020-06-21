@@ -26,7 +26,6 @@
 }
 
 .how-exchange-works-item__number {
-    cursor: pointer;
     position: relative;
     width: 80px;
     height: 50px;

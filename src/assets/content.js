@@ -9,7 +9,7 @@ export const works = [
     NUMBER: 1,
     TITLE: 'Create',
     // eslint-disable-next-line no-multi-str
-    DESCRIPTION: 'an exchange gateway to exchange one  asset to another multiple times',
+    DESCRIPTION: 'an exchange gateway to exchange one asset to another multiple times',
   },
   {
     NUMBER: 2,
@@ -19,7 +19,7 @@ export const works = [
   {
     NUMBER: 3,
     TITLE: 'Receive',
-    DESCRIPTION: 'the exchanged amount to your address and track your exchange history ',
+    DESCRIPTION: 'the exchanged amount to your address and track your exchange history',
   }
 ];
 
