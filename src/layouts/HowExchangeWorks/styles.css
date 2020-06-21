@@ -1,0 +1,21 @@
+.how-exchange-works {
+    margin-top: 58px;
+    flex-direction: column;
+    position: relative;
+    margin-bottom: 80px;
+}
+
+.how-exchange-works__title {
+    margin-bottom: 24px;
+    text-align: center;
+    font-size: 1.6875rem;
+}
+
+@media (max-width: 993px){
+   .how-exchange-works__title{
+       display: none;
+   }
+    .how-exchange-works{
+        margin-bottom: 0;
+    }
+}

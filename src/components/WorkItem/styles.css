@@ -1,0 +1,51 @@
+.how-exchange-works-item__figure {
+    background: url("../../assets/img/figure/figure.svg") no-repeat center;
+    background-size: auto;
+    height: 64px;
+    width: 64px;
+    margin: 24px auto;
+}
+
+.how-exchange-works-item__number {
+    top: 12px;
+    font-size: 1.6875rem;
+    position: relative;
+    color: #fff;
+}
+
+.how-exchange-works-item__title {
+    font-size: 1.25rem;
+    font-family: 'Roboto Medium', sans-serif;
+}
+
+.how-exchange-works-item__description {
+    font-size: 0.875rem;
+    color: var(--black);
+}
+
+.how-exchange-works-item__number {
+    cursor: pointer;
+    position: relative;
+    width: 80px;
+    height: 50px;
+    margin: 20px;
+}
+
+
+@media (max-width: 993px) {
+    .how-exchange-works-item {
+        display: flex;
+        width: 280px;
+    }
+
+    .how-exchange-works-item__figure {
+        margin-top: -20px;
+        background: url("../../assets/img/figure/figure_m.svg") no-repeat center;
+    }
+
+    .how-exchange-works-item__figcaption {
+        text-align: left;
+        margin-left: 10px;
+    }
+}
+
