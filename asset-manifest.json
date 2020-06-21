@@ -1,21 +1,17 @@
 {
   "files": {
-    "main.css": "/vechain/static/css/main.628da5e4.chunk.css",
-    "main.js": "/vechain/static/js/main.34d80dc7.chunk.js",
-    "main.js.map": "/vechain/static/js/main.34d80dc7.chunk.js.map",
-    "runtime-main.js": "/vechain/static/js/runtime-main.ec9524d2.js",
-    "runtime-main.js.map": "/vechain/static/js/runtime-main.ec9524d2.js.map",
-    "static/css/2.1d95af21.chunk.css": "/vechain/static/css/2.1d95af21.chunk.css",
-    "static/js/2.6d12be98.chunk.js": "/vechain/static/js/2.6d12be98.chunk.js",
-    "static/js/2.6d12be98.chunk.js.map": "/vechain/static/js/2.6d12be98.chunk.js.map",
-    "static/js/3.b7d9de20.chunk.js": "/vechain/static/js/3.b7d9de20.chunk.js",
-    "static/js/3.b7d9de20.chunk.js.map": "/vechain/static/js/3.b7d9de20.chunk.js.map",
+    "main.css": "/vechain/static/css/main.58dadbdd.chunk.css",
+    "main.js": "/vechain/static/js/main.fdab0f55.chunk.js",
+    "main.js.map": "/vechain/static/js/main.fdab0f55.chunk.js.map",
+    "runtime-main.js": "/vechain/static/js/runtime-main.8c863204.js",
+    "runtime-main.js.map": "/vechain/static/js/runtime-main.8c863204.js.map",
+    "static/js/2.2fd0dc4d.chunk.js": "/vechain/static/js/2.2fd0dc4d.chunk.js",
+    "static/js/2.2fd0dc4d.chunk.js.map": "/vechain/static/js/2.2fd0dc4d.chunk.js.map",
     "index.html": "/vechain/index.html",
-    "precache-manifest.ed98678bd01e8f456227cd3b894dbe21.js": "/vechain/precache-manifest.ed98678bd01e8f456227cd3b894dbe21.js",
+    "precache-manifest.f119f90d8f1f063799adffc04f2fbafd.js": "/vechain/precache-manifest.f119f90d8f1f063799adffc04f2fbafd.js",
     "service-worker.js": "/vechain/service-worker.js",
-    "static/css/2.1d95af21.chunk.css.map": "/vechain/static/css/2.1d95af21.chunk.css.map",
-    "static/css/main.628da5e4.chunk.css.map": "/vechain/static/css/main.628da5e4.chunk.css.map",
-    "static/js/3.b7d9de20.chunk.js.LICENSE.txt": "/vechain/static/js/3.b7d9de20.chunk.js.LICENSE.txt",
+    "static/css/main.58dadbdd.chunk.css.map": "/vechain/static/css/main.58dadbdd.chunk.css.map",
+    "static/js/2.2fd0dc4d.chunk.js.LICENSE.txt": "/vechain/static/js/2.2fd0dc4d.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/vechain/static/media/Roboto-Regular.d41d8cd9.ttf",
     "static/media/styles.css": "/vechain/static/media/figure_m.9d241415.svg",
     "static/media/index.css": "/vechain/static/media/bg_v.7fac815b.svg",
@@ -24,9 +20,9 @@
     "static/media/vector.559c61b8.svg": "/vechain/static/media/vector.559c61b8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec9524d2.js",
-    "static/js/3.b7d9de20.chunk.js",
-    "static/css/main.628da5e4.chunk.css",
-    "static/js/main.34d80dc7.chunk.js"
+    "static/js/runtime-main.8c863204.js",
+    "static/js/2.2fd0dc4d.chunk.js",
+    "static/css/main.58dadbdd.chunk.css",
+    "static/js/main.fdab0f55.chunk.js"
   ]
 }

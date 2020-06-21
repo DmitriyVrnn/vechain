@@ -1,35 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1716bc7e41c3345e002a3bb4756b78e",
+    "revision": "626243c83b26fb6df3b6ae44cd701cd9",
     "url": "/vechain/index.html"
   },
   {
-    "revision": "f3d505961584ecf54603",
-    "url": "/vechain/static/css/2.1d95af21.chunk.css"
+    "revision": "eca5c7ebc9f8d0a84d6e",
+    "url": "/vechain/static/css/main.58dadbdd.chunk.css"
   },
   {
-    "revision": "bbaba7f7da59abc96342",
-    "url": "/vechain/static/css/main.628da5e4.chunk.css"
-  },
-  {
-    "revision": "f3d505961584ecf54603",
-    "url": "/vechain/static/js/2.6d12be98.chunk.js"
-  },
-  {
-    "revision": "707648782790156de3f9",
-    "url": "/vechain/static/js/3.b7d9de20.chunk.js"
+    "revision": "176658eb55d488fb186a",
+    "url": "/vechain/static/js/2.2fd0dc4d.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/vechain/static/js/3.b7d9de20.chunk.js.LICENSE.txt"
+    "url": "/vechain/static/js/2.2fd0dc4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bbaba7f7da59abc96342",
-    "url": "/vechain/static/js/main.34d80dc7.chunk.js"
+    "revision": "eca5c7ebc9f8d0a84d6e",
+    "url": "/vechain/static/js/main.fdab0f55.chunk.js"
   },
   {
-    "revision": "f9a1cbfafc45a79d06d7",
-    "url": "/vechain/static/js/runtime-main.ec9524d2.js"
+    "revision": "c4da47efabb565233824",
+    "url": "/vechain/static/js/runtime-main.8c863204.js"
   },
   {
     "revision": "58aef543c97bbaf6a9896e8484456d98",
