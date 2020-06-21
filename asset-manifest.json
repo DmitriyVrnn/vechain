@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/DmitriyVrnn/vechain/static/css/main.ea51be68.chunk.css",
+    "main.js": "/DmitriyVrnn/vechain/static/js/main.2605d98d.chunk.js",
+    "main.js.map": "/DmitriyVrnn/vechain/static/js/main.2605d98d.chunk.js.map",
+    "runtime-main.js": "/DmitriyVrnn/vechain/static/js/runtime-main.2e10bd1c.js",
+    "runtime-main.js.map": "/DmitriyVrnn/vechain/static/js/runtime-main.2e10bd1c.js.map",
+    "static/js/2.2fd0dc4d.chunk.js": "/DmitriyVrnn/vechain/static/js/2.2fd0dc4d.chunk.js",
+    "static/js/2.2fd0dc4d.chunk.js.map": "/DmitriyVrnn/vechain/static/js/2.2fd0dc4d.chunk.js.map",
+    "index.html": "/DmitriyVrnn/vechain/index.html",
+    "precache-manifest.efc1fd320726cdaddd5376a3ba9666ac.js": "/DmitriyVrnn/vechain/precache-manifest.efc1fd320726cdaddd5376a3ba9666ac.js",
+    "service-worker.js": "/DmitriyVrnn/vechain/service-worker.js",
+    "static/css/main.ea51be68.chunk.css.map": "/DmitriyVrnn/vechain/static/css/main.ea51be68.chunk.css.map",
+    "static/js/2.2fd0dc4d.chunk.js.LICENSE.txt": "/DmitriyVrnn/vechain/static/js/2.2fd0dc4d.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/DmitriyVrnn/vechain/static/media/Roboto-Regular.d41d8cd9.ttf",
+    "static/media/styles.css": "/DmitriyVrnn/vechain/static/media/figure_m.9d241415.svg",
+    "static/media/index.css": "/DmitriyVrnn/vechain/static/media/bg_v.7fac815b.svg",
+    "static/media/chevron.11c161a4.svg": "/DmitriyVrnn/vechain/static/media/chevron.11c161a4.svg",
+    "static/media/plus.4a80dd91.svg": "/DmitriyVrnn/vechain/static/media/plus.4a80dd91.svg",
+    "static/media/vector.559c61b8.svg": "/DmitriyVrnn/vechain/static/media/vector.559c61b8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e10bd1c.js",
+    "static/js/2.2fd0dc4d.chunk.js",
+    "static/css/main.ea51be68.chunk.css",
+    "static/js/main.2605d98d.chunk.js"
+  ]
+}
