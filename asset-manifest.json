@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vechain/static/css/main.58dadbdd.chunk.css",
-    "main.js": "/vechain/static/js/main.5e3e1446.chunk.js",
-    "main.js.map": "/vechain/static/js/main.5e3e1446.chunk.js.map",
+    "main.js": "/vechain/static/js/main.d6f01ec7.chunk.js",
+    "main.js.map": "/vechain/static/js/main.d6f01ec7.chunk.js.map",
     "runtime-main.js": "/vechain/static/js/runtime-main.8c863204.js",
     "runtime-main.js.map": "/vechain/static/js/runtime-main.8c863204.js.map",
     "static/js/2.2fd0dc4d.chunk.js": "/vechain/static/js/2.2fd0dc4d.chunk.js",
     "static/js/2.2fd0dc4d.chunk.js.map": "/vechain/static/js/2.2fd0dc4d.chunk.js.map",
     "index.html": "/vechain/index.html",
-    "precache-manifest.77f32e86fb6a2ac4c90d5a416bbd9ea9.js": "/vechain/precache-manifest.77f32e86fb6a2ac4c90d5a416bbd9ea9.js",
+    "precache-manifest.ca2608f98a3846d601f413babbe141ed.js": "/vechain/precache-manifest.ca2608f98a3846d601f413babbe141ed.js",
     "service-worker.js": "/vechain/service-worker.js",
     "static/css/main.58dadbdd.chunk.css.map": "/vechain/static/css/main.58dadbdd.chunk.css.map",
     "static/js/2.2fd0dc4d.chunk.js.LICENSE.txt": "/vechain/static/js/2.2fd0dc4d.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.8c863204.js",
     "static/js/2.2fd0dc4d.chunk.js",
     "static/css/main.58dadbdd.chunk.css",
-    "static/js/main.5e3e1446.chunk.js"
+    "static/js/main.d6f01ec7.chunk.js"
   ]
 }
