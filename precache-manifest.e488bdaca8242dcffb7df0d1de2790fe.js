@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6d17b63e728998880898b80063fdd7d",
+    "revision": "7f32efcbd174b521a81e4fdc58d02f0d",
     "url": "/vechain/index.html"
   },
   {
-    "revision": "05b6a9440a766a676acc",
-    "url": "/vechain/static/css/main.1be8b77a.chunk.css"
+    "revision": "5f7b24fead76db466e59",
+    "url": "/vechain/static/css/main.9bc3a43e.chunk.css"
   },
   {
     "revision": "176658eb55d488fb186a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vechain/static/js/2.2fd0dc4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05b6a9440a766a676acc",
-    "url": "/vechain/static/js/main.53331616.chunk.js"
+    "revision": "5f7b24fead76db466e59",
+    "url": "/vechain/static/js/main.1b537bd1.chunk.js"
   },
   {
     "revision": "c4da47efabb565233824",
