@@ -16,11 +16,13 @@
 .how-exchange-works-item__title {
     font-size: 1.25rem;
     font-family: 'Roboto Medium', sans-serif;
+    font-weight: 500;
 }
 
 .how-exchange-works-item__description {
     font-size: 0.875rem;
     color: var(--black);
+    margin-top: 5px;
 }
 
 .how-exchange-works-item__number {

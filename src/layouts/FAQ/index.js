@@ -12,8 +12,8 @@ export const FAQ = () => {
       <div className="faq__wrapper">
         <h2 className="faq__title">{ window.innerWidth > 860 ? FAQ_TITLE_DESKTOP : FAQ_TITLE_MOBILE }</h2>
         <ul className="faq__list">
-          {listAnswer.map(item =>
-            <li className="faq__list-item">
+          {listAnswer.map((item, index) =>
+            <li className="faq__list-item" key={index}>
               <Accordion title={item.QUESTIONS} {...item}>
                 <p>{item.ANSWER}</p>
               </Accordion>

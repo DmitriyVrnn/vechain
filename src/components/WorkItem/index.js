@@ -8,7 +8,7 @@ export const WorkItem = ({ work }) => (
       <span className="how-exchange-works-item__number">{work.NUMBER}</span>
     </div>
     <figcaption className="how-exchange-works-item__figcaption">
-      <h3 className="how-exchange-works-item__title">{work.TITLE}</h3>
+      <strong className="how-exchange-works-item__title">{work.TITLE}</strong>
       <p className="how-exchange-works-item__description">{work.DESCRIPTION}</p>
     </figcaption>
   </figure>
