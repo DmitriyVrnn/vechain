@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "626243c83b26fb6df3b6ae44cd701cd9",
+    "revision": "15661dc387c5af48afd6ee1f2993ba72",
     "url": "/vechain/index.html"
   },
   {
