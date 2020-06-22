@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f32efcbd174b521a81e4fdc58d02f0d",
+    "revision": "1642d0678a888b87db805a04f0d2f2ec",
     "url": "/vechain/index.html"
   },
   {
-    "revision": "5f7b24fead76db466e59",
-    "url": "/vechain/static/css/main.9bc3a43e.chunk.css"
+    "revision": "bc33d689ce4d86c949f9",
+    "url": "/vechain/static/css/main.149997ac.chunk.css"
   },
   {
     "revision": "176658eb55d488fb186a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vechain/static/js/2.2fd0dc4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f7b24fead76db466e59",
-    "url": "/vechain/static/js/main.1b537bd1.chunk.js"
+    "revision": "bc33d689ce4d86c949f9",
+    "url": "/vechain/static/js/main.99a09cad.chunk.js"
   },
   {
     "revision": "c4da47efabb565233824",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vechain/static/media/bg_v.7fac815b.svg"
   },
   {
+    "revision": "1101a8f65159ca9de61cbeb41c8fc5ca",
+    "url": "/vechain/static/media/change.1101a8f6.svg"
+  },
+  {
     "revision": "11c161a41b7ca210934696678b2b00e0",
     "url": "/vechain/static/media/chevron.11c161a4.svg"
   },
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d241415a2daf30efda74459a092b2bf",
     "url": "/vechain/static/media/figure_m.9d241415.svg"
+  },
+  {
+    "revision": "8fd78acf57dc8fba3293592807a1e157",
+    "url": "/vechain/static/media/now.8fd78acf.svg"
   },
   {
     "revision": "4a80dd91012088c6cf05a91d13cc610a",
