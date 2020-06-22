@@ -9,13 +9,13 @@ import './styles.css';
 
 export const Logo = () => {
   return (
-    <div className="logo">
+    <a href="#" className="logo">
       <div className="logo__wrap-text">
         <Change/>
         <Now/>
       </div>
       <Plus/>
       <Vector/>
-    </div>
+    </a>
   )
 };
